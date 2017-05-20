@@ -58,7 +58,7 @@ Once this is done the repository will be cloned, still to a problem that I solve
 
 
 ```bash
-cd /tmp/yaourt-tmp-marcus/aur-javahelp2/src/
+cd /tmp/yaourt-tmp-youruser/aur-javahelp2/src/
 mv javahelp-master/ javahelp2
 ```
 
